@@ -1,2 +1,2 @@
 # TentaDAT425
-övnings tenta 1 och 2 
+övningstenta 1 och 2 
